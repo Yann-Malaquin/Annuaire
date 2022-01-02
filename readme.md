@@ -58,7 +58,9 @@ Nom du fichier : producer.json
 .\kafka-console-producer --broker-list localhost:9092 --topic annuaire \\< C:\Users\Yann\Desktop\kafka_2.10-0.10.2.1\producer.json
 ```
 
+### Postman
 
+TP Annuaire.postman_collection
 
 
 
