@@ -11,6 +11,7 @@ et Docker.
 * Composer
 * Docker
 * Docker-compose
+* Kafka 2.10-0.10
 
 ### Technologies
 
@@ -54,17 +55,17 @@ Format Json :
 Un fichier est églament fourni pour permettre un ajout plus important:
 Nom du fichier : producer.json
 
+Pour envoyer des données en CMD
 ```bash
 .\kafka-console-producer --broker-list localhost:9092 --topic annuaire \\< C:\Users\Yann\Desktop\kafka_2.10-0.10.2.1\producer.json
+```
+
+Pour lire les données dans la CMD
+
+```bash
+.\kafka-console-consumer --bootstrap-server localhost:9092 --topic annuaire
 ```
 
 ### Postman
 
 TP Annuaire.postman_collection
-
-
-
-
-
-
-
