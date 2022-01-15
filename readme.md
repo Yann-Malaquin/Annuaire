@@ -67,11 +67,11 @@ Rafraîchir la page web et si le modèle correspond, la personne sera ajoutée.
 
 #### Thymeleaf
 
-- Affichage de toutes les personnes : [localhost:8082/annuaire](localhost:8082/annuaire)
-- Ajout d'une personne [http://localhost:8082/annuaire/addPerson](http://localhost:8082/annuaire/addPerson)
+- Affichage de toutes les personnes : [localhost:8082/annuaire](http://localhost:8082/annuaire)
+- Ajout d'une personne [localhost:8082/annuaire/addPerson](http://localhost:8082/annuaire/addPerson)
 
 #### Angular
 
-- Page d'accueil : [http://localhost:4200/](http://localhost:4200/)
+- Page d'accueil : [localhost:4200/](http://localhost:4200/)
 
 Ensuite utilisation de la navbar pour naviguer au travers de l'application.
