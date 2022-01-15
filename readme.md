@@ -11,6 +11,7 @@ et Docker.
 * Composer
 * Docker
 * Docker-compose
+* Kafka 2.10-0.10
 
 ### Technologies
 
@@ -49,8 +50,10 @@ Format Json :
 Un fichier est également fourni pour avec plusieurs personnes. <br/>
 Nom du fichier : producer.json
 
+
 Pour accéder à Kafka, ouvrir un terminal, saisir la commande suivante
 
+Pour envoyer des données en CMD
 ```bash
 docker exec -ti annuaire-kafka /bin/sh
 ```
@@ -75,3 +78,7 @@ Rafraîchir la page web et si le modèle correspond, la personne sera ajoutée.
 - Page d'accueil : [localhost:4200/](http://localhost:4200/)
 
 Ensuite utilisation de la navbar pour naviguer au travers de l'application.
+
+## Postman
+
+TP Annuaire.postman_collection
