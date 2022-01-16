@@ -66,7 +66,7 @@ sh-4.4$ kafka-console-producer --broker-list kafka:9092 --topic annuaire
 Appuyez sur entrée. <br/> 
 Rafraîchir la page web et si le modèle correspond, la personne sera ajoutée.
 
-### URL
+## URL
 
 #### Thymeleaf
 
