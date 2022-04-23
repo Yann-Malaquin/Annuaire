@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "name": "Cherie",
+    "surname": "Roberts",
+    "phone": "+33 (876) 595-2260",
+    "city": "Tecolotito"
+  },
+  {
+    "id": 10,
+    "name": "Lydia",
+    "surname": "Cortez",
+    "phone": "+33 (838) 441-3274",
+    "city": "Watchtower"
+  },
+  {
+    "id": 20,
+    "name": "Mildred",
+    "surname": "Vaughn",
+    "phone": "+33 (956) 445-3429",
+    "city": "Lavalette"
+  },
+  {
+    "id": 30,
+    "name": "Ines",
+    "surname": "Whitehead",
+    "phone": "+33 (818) 587-3669",
+    "city": "Jardine"
+  },
+  {
+    "id": 40,
+    "name": "Booker",
+    "surname": "Hale",
+    "phone": "+33 (810) 469-2045",
+    "city": "Morriston"
+  }
+]
